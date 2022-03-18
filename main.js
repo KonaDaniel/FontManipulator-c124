@@ -22,4 +22,4 @@ function gotResults(results) {
 
 function draw() {
     background('white');
-}
+} 
